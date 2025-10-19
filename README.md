@@ -48,5 +48,5 @@ El trabajo se organiza en ciclos cortos llamados **Sprints** (en nuestro caso de
 |:----|:---------|
 | **Product Owner** | *<strong>Rodrigo</strong> Jesús-Portanet Martínez* | Define la visión y prioridades del producto |
 | **Scrum Master** | *<strong>Daniel</strong> Coleto Quereda* |
-| **Git Master** | *<strong>_</strong>* |
+| **Git Master** | *<strong>João</strong> Francisco Sampaio Pereira* |
 | **Desarrolladores**|*<strong>Rodrigo</strong> Jesús-Portanet Martínez<br><strong>Hamza</strong> Triki<br><strong>Daniel</strong> Coleto Quereda<br><strong>João</strong> Francisco Sampaio Pereira<br><strong>Carlos</strong> Mantilla Mateos*|
