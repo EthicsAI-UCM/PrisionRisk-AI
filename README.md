@@ -24,7 +24,7 @@ El sistema cumple con el **AI Act (UE, 2024)** y el **RGPD**, garantizando super
 
 ## 🧾 Documentos clave
 - 📘 [Riesgos y límites del sistema](./sprint2/Ampliacion_Riesgos_y_Limites.pdf)  
-- ⚖️ [Análisis de propiedad intelectual y modelo de negocio](./sprint2/Ampliacion_Propiedad_Intelectual.pdf.pdf)  
+- ⚖️ [Análisis de propiedad intelectual y modelo de negocio](./sprint2/Ampliacion_Propiedad_Intelectual.pdf)  
 - 🌀 [Metodología Scrum del equipo](./README_SCRUM.md)  
 
 ---
